@@ -16,7 +16,6 @@ I'm at the start of my developer journey—experimenting, building, and breaking
 ## 🤝 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/khantpyaehtoo)
-- [discord](khantpyaehtoo_)
 
 ---
 
