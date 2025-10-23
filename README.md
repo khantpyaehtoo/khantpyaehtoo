@@ -6,7 +6,9 @@ I'm a passionate **Junior Full Stack Developer** eager to build and learn new th
 
 ## 🚀 Technologies & Tools
 
-- **Languages:** Python, HTML, CSS, JavaScript, Bootstrap
+- **Languages:** Python, HTML, CSS, JavaScript
+- **Frameworks/Libraries:** React (basics), Bootstrap
+
 - **Currently Exploring:** Full Stack Development concepts and best practices
 
 ## 🌱 Learning Journey
