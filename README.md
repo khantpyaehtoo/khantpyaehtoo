@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**khantpyaehtoo/khantpyaehtoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Khant Pyae Htoo!
 
-Here are some ideas to get you started:
+I'm a passionate **Junior Full Stack Developer** eager to build and learn new things every day. My main focus is on creating responsive and user-friendly web applications, and I'm constantly expanding my toolkit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies & Tools
+
+- **Languages:** Python, HTML, CSS, JavaScript, Bootstrap
+- **Currently Exploring:** Full Stack Development concepts and best practices
+
+## 🌱 Learning Journey
+
+I'm at the start of my developer journey—experimenting, building, and breaking things to understand how they work. I'm committed to growing my skills and contributing to the tech community.
+
+## 🤝 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/khantpyaehtoo)
+- [discord](khantpyaehtoo_)
+
+---
+
+> “The expert in anything was once a beginner.” — Helen Hayes
+
+Feel free to check out my repositories and connect with me!
