@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Khant Pyae Htoo!
 
-I'm a passionate **Junior Full Stack Developer** eager to build and learn new things every day. My main focus is on creating responsive and user-friendly web applications, and I'm constantly expanding my toolkit.
+I'm a passionate **Full Stack Developer** eager to build and learn new things every day. My main focus is on creating responsive and user-friendly web applications, and I'm constantly expanding my toolkit.
 
 ## 🚀 Technologies & Tools
 
