@@ -6,7 +6,7 @@ I'm a passionate **Full Stack Developer** eager to build and learn new things ev
 ## 🚀 Technologies & Tools
 
 - **Languages:** Python, HTML, CSS, JavaScript
-- **Frameworks/Libraries:** React (basics), Bootstrap, JQuery
+- **Frameworks/Libraries:** React (basics), Bootstrap, JQuery, FastApi
 
 - **Currently Exploring:** Full Stack Development concepts and best practices
 
