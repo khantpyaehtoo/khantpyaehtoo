@@ -7,7 +7,7 @@ I'm a passionate **Full Stack Developer** eager to build and learn new things ev
 
 - **Languages:** Python, HTML, CSS, JavaScript
 - **Frameworks/Libraries:** React, Bootstrap, JQuery, FastApi
-- **Database:** MySQL
+- **Database:** MySQL, FireBase
 
 - **Currently Exploring:** Full Stack Development concepts and best practices
 
