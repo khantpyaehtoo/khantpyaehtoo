@@ -18,6 +18,9 @@ I'm at the start of my developer journey—experimenting, building, and breaking
 ## 🤝 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/khantpyaehtoo)
+- ### Connect with me
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/khantpyaehtoo_)
+
 
 ---
 
