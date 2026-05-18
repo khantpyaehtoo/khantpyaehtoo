@@ -5,9 +5,12 @@ I'm a passionate **Full Stack Developer** eager to build and learn new things ev
 
 ## 🚀 Technologies & Tools
 
-- **Languages:** Python, JavaScript
-- **Frameworks/Libraries:** React, Bootstrap, JQuery, Tailwind, FastApi, Redux
-- **Database:** MySQL, FireBase, SupaBase
+- ### 💻 Languages
+  [![Language](https://skillicons.dev/icons?i=js,python)](https://skillicons.dev)
+- ### 🧩 Frameworks/Libraries
+  [![Framework/libraries](https://skillicons.dev/icons?i=react,tailwind,bootstrap,redux,nodejs,fastapi&perline=3)](https://skillicons.dev)
+- ### 📦 Database
+  [![Database](https://skillicons.dev/icons?i=mysql,firebase,supabase)](https://skillicons.dev)
 
 - **Currently Exploring:** Full Stack Development concepts and best practices
 
