@@ -16,7 +16,6 @@ I'm a passionate **Full Stack Developer** eager to build and learn new things ev
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khantpyaehtoo)
  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1237777409487671338)
- [![Gmail](https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail&logoColor=red)](khantpyaehtoo133@gmail.com)
 
 ## 🌱 Learning Journey
 
