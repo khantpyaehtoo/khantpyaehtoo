@@ -8,7 +8,7 @@ I'm a passionate **Full Stack Developer** eager to build and learn new things ev
 - ### 💻 Languages
   [![Language](https://skillicons.dev/icons?i=js,python)](https://skillicons.dev)
 - ### 🧩 Frameworks/Libraries
-  [![Framework/libraries](https://skillicons.dev/icons?i=react,tailwind,bootstrap,redux,nodejs,fastapi)](https://skillicons.dev)
+  [![Framework/libraries](https://skillicons.dev/icons?i=react,typescript,tailwind,bootstrap,redux,nodejs,fastapi)](https://skillicons.dev)
 - ### 📦 Database
   [![Database](https://skillicons.dev/icons?i=mysql,firebase,supabase)](https://skillicons.dev)
 
