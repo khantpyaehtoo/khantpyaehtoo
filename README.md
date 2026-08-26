@@ -5,13 +5,14 @@ I'm a passionate **Full Stack Developer** eager to build and learn new things ev
 
 ## 🚀 Technologies & Tools
 
-- ### 💻 Languages
-  [![Language](https://skillicons.dev/icons?i=js,python)](https://skillicons.dev)
-- ### 🧩 Frameworks/Libraries
-  [![Framework/libraries](https://skillicons.dev/icons?i=react,typescript,tailwind,bootstrap,redux,nodejs,fastapi)](https://skillicons.dev)
-- ### 📦 Database & Others
-  [![Database](https://skillicons.dev/icons?i=mysql,firebase,supabase,linux,git)](https://skillicons.dev)
+- ### 💻 Languages & Core Frameworks
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,python)](https://skillicons.dev)
+- ### 🧩 Styling & State Management
+  [![Styling and State](https://skillicons.dev/icons?i=tailwind,bootstrap,redux)](https://skillicons.dev)
+- ### 📦 Build Tools, Backend & Databases
+  [![Backend and Tools](https://skillicons.dev/icons?i=vite,nodejs,fastapi,mysql,firebase,supabase,linux,git)](https://skillicons.dev)
 
+---
 ## 🤝 Let's Connect
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khantpyaehtoo)
@@ -19,20 +20,22 @@ I'm a passionate **Full Stack Developer** eager to build and learn new things ev
 
 ## 🌱 Learning Journey
 
-I'm at the start of my developer journey—experimenting, building, and breaking things to understand how they work. I'm committed to growing my skills and contributing to the tech community.
+I am continuously refining my craft—experimenting with advanced UI architecture, state management, and developer tooling. Focused on writing maintainable, production-ready code while contributing actively to open-source projects.
 
-  <!-- 3D Contribution Graph -->
-  <div align="center">
-    <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
-  </div>
+## 📈 Activity & Metrics
+
+<!-- 3D Contribution Graph -->
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
+</div>
 
   <br />
 
-  <!-- GitHub Stats & Streak Cards -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=khantpyaehtoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Khant Pyae Htoo Stats" height="165" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khantpyaehtoo&theme=tokyonight&hide_border=true" alt="Khant Pyae Htoo Streak" height="165" />
-  </p>
+<!-- GitHub Stats & Streak Cards -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khantpyaehtoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Khant Pyae Htoo Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khantpyaehtoo&theme=tokyonight&hide_border=true" alt="Khant Pyae Htoo Streak" height="165" />
+</p>
 
 ---
 
