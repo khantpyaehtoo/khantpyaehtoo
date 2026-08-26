@@ -10,7 +10,7 @@ I'm a passionate **Full Stack Developer** eager to build and learn new things ev
 - ### 🧩 Styling & State Management
   [![Styling and State](https://skillicons.dev/icons?i=tailwind,bootstrap,redux)](https://skillicons.dev)
 - ### 📦 Build Tools, Backend & Databases
-  [![Backend and Tools](https://skillicons.dev/icons?i=vite,nodejs,fastapi,mysql,firebase,supabase,linux,git)](https://skillicons.dev)
+  [![Backend and Tools](https://skillicons.dev/icons?i=vite,nodejs,express,fastapi,mysql,postgresql,firebase,supabase,linux,git)](https://skillicons.dev)
 
 ---
 ## 🤝 Let's Connect
