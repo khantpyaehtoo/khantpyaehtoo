@@ -21,7 +21,18 @@ I'm a passionate **Full Stack Developer** eager to build and learn new things ev
 
 I'm at the start of my developer journey—experimenting, building, and breaking things to understand how they work. I'm committed to growing my skills and contributing to the tech community.
 
+  <!-- 3D Contribution Graph -->
+  <div align="center">
+    <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
+  </div>
 
+  <br />
+
+  <!-- GitHub Stats & Streak Cards -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=khantpyaehtoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Khant Pyae Htoo Stats" height="165" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khantpyaehtoo&theme=tokyonight&hide_border=true" alt="Khant Pyae Htoo Streak" height="165" />
+  </p>
 
 ---
 
