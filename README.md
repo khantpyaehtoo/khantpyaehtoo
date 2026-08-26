@@ -33,7 +33,7 @@ I am continuously refining my craft—experimenting with advanced UI architectur
 
 <!-- GitHub Stats & Streak Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khantpyaehtoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Khant Pyae Htoo Stats" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=khantpyaehtoo&show_icons=true&theme=tokyonight&hide_border=true" alt="Khant Pyae Htoo Stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khantpyaehtoo&theme=tokyonight&hide_border=true" alt="Khant Pyae Htoo Streak" height="165" />
 </p>
 
