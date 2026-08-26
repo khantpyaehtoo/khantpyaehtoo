@@ -22,6 +22,11 @@ I'm a passionate **Full Stack Developer** eager to build and learn new things ev
 
 I am continuously refining my craft—experimenting with advanced UI architecture, state management, and developer tooling. Focused on writing maintainable, production-ready code while contributing actively to open-source projects.
 
+> “The expert in anything was once a beginner.” — Helen Hayes <br/>
+> "Do the best you can until you know better. Then when you know better, do better." – Maya Angelou
+
+<b>Feel free to check out my repositories and connect with me!</b>
+
 ## 📈 Activity & Metrics
 
 <!-- 3D Contribution Graph -->
@@ -39,7 +44,4 @@ I am continuously refining my craft—experimenting with advanced UI architectur
 
 ---
 
-> “The expert in anything was once a beginner.” — Helen Hayes <br/>
-> "Do the best you can until you know better. Then when you know better, do better." – Maya Angelou
 
-<b>Feel free to check out my repositories and connect with me!</b>
