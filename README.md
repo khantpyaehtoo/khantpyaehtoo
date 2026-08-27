@@ -31,7 +31,7 @@ I am continuously refining my craft—experimenting with advanced UI architectur
 
 <!-- 3D Contribution Graph -->
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
   <br />
